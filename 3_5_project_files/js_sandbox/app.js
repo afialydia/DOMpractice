@@ -28,3 +28,4 @@
 
 
 // Get prev sibling
+console.log(val)
